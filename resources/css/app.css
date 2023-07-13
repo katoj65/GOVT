@@ -1,0 +1,18 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+
+div,h3,h4, h5,h6{
+font-family: "Gill Sans", sans-serif;
+}
+
+.main-menu-list:hover{
+color:black;
+}
+.main-menu-list{
+color:#006064;
+font-family: "Gill Sans", sans-serif;
+}
+
