@@ -606,6 +606,7 @@ class ComposerStaticInit03f52a83b0d35dbecabdd80851dcf90d
         'App\\Models\\NewsModel' => __DIR__ . '/../..' . '/app/Models/NewsModel.php',
         'App\\Models\\PoliceDivisionModel' => __DIR__ . '/../..' . '/app/Models/PoliceDivisionModel.php',
         'App\\Models\\PoliceRegionModel' => __DIR__ . '/../..' . '/app/Models/PoliceRegionModel.php',
+        'App\\Models\\ProjectsModel' => __DIR__ . '/../..' . '/app/Models/ProjectsModel.php',
         'App\\Models\\PublicServicesModel' => __DIR__ . '/../..' . '/app/Models/PublicServicesModel.php',
         'App\\Models\\ServiceDepartmentModel' => __DIR__ . '/../..' . '/app/Models/ServiceDepartmentModel.php',
         'App\\Models\\ServicesModel' => __DIR__ . '/../..' . '/app/Models/ServicesModel.php',

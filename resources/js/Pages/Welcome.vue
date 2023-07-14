@@ -168,7 +168,7 @@ menu:[
 {id:1,name:'Report Incident',url:'report.create',icon:'public/icon/report.png'},
 {id:3,name:'Make Appointment',url:'appointment.create',icon:'public/icon/calendar.png'},
 {id:2,name:'Emergence Services',url:'report.create',icon:'public/icon/ambulance1.png'},
-{id:4,name:'Government Services',url:'report.create',icon:'public/icon/govt.png'},
+{id:4,name:'Government Services',url:'services',icon:'public/icon/govt.png'},
 {id:5,name:'Pay Taxes',url:'report.create',icon:'public/icon/tax.png'},
 {id:6,name:'Legal Documents',url:'report.create',icon:'public/icon/documents.png'},
 

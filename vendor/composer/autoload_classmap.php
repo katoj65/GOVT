@@ -46,6 +46,7 @@ return array(
     'App\\Models\\NewsModel' => $baseDir . '/app/Models/NewsModel.php',
     'App\\Models\\PoliceDivisionModel' => $baseDir . '/app/Models/PoliceDivisionModel.php',
     'App\\Models\\PoliceRegionModel' => $baseDir . '/app/Models/PoliceRegionModel.php',
+    'App\\Models\\ProjectsModel' => $baseDir . '/app/Models/ProjectsModel.php',
     'App\\Models\\PublicServicesModel' => $baseDir . '/app/Models/PublicServicesModel.php',
     'App\\Models\\ServiceDepartmentModel' => $baseDir . '/app/Models/ServiceDepartmentModel.php',
     'App\\Models\\ServicesModel' => $baseDir . '/app/Models/ServicesModel.php',

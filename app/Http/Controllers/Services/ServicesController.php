@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Services;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Models\ServicesModel;
+use Inertia\Inertia;
 
 class ServicesController extends Controller
 {
@@ -16,7 +17,16 @@ class ServicesController extends Controller
     public function index()
     {
         //
-    }
+$data['title']='Ministries';
+$data['response']=[
+'services'=>ServicesModel::get(),
+
+
+];
+
+return Inertia::render('ServicesPage',$data);
+
+}
 
     /**
      * Store a newly created resource in storage.
